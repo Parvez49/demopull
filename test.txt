@@ -2,3 +2,5 @@
 This is first line from local machine.
 
 This is first line from remote machine.
+
+This is third line from remote machine.
