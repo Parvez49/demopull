@@ -6,3 +6,5 @@ This is demo line
 This is modified line
 
 this is updated line
+
+this is modified from local
